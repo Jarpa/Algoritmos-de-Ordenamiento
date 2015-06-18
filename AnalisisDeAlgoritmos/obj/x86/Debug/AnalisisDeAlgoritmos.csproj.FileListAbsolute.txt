@@ -1,0 +1,17 @@
+c:\users\chelo\documents\visual studio 2010\Projects\AnalisisDeAlgoritmos\AnalisisDeAlgoritmos\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\chelo\documents\visual studio 2010\Projects\AnalisisDeAlgoritmos\AnalisisDeAlgoritmos\obj\x86\Debug\AnalisisDeAlgoritmos.Form1.resources
+c:\users\chelo\documents\visual studio 2010\Projects\AnalisisDeAlgoritmos\AnalisisDeAlgoritmos\obj\x86\Debug\AnalisisDeAlgoritmos.Properties.Resources.resources
+c:\users\chelo\documents\visual studio 2010\Projects\AnalisisDeAlgoritmos\AnalisisDeAlgoritmos\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\chelo\documents\visual studio 2010\Projects\AnalisisDeAlgoritmos\AnalisisDeAlgoritmos\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\chelo\documents\visual studio 2010\Projects\AnalisisDeAlgoritmos\AnalisisDeAlgoritmos\bin\Debug\AnalisisDeAlgoritmos.exe
+c:\users\chelo\documents\visual studio 2010\Projects\AnalisisDeAlgoritmos\AnalisisDeAlgoritmos\bin\Debug\AnalisisDeAlgoritmos.pdb
+c:\users\chelo\documents\visual studio 2010\Projects\AnalisisDeAlgoritmos\AnalisisDeAlgoritmos\obj\x86\Debug\AnalisisDeAlgoritmos.exe
+c:\users\chelo\documents\visual studio 2010\Projects\AnalisisDeAlgoritmos\AnalisisDeAlgoritmos\obj\x86\Debug\AnalisisDeAlgoritmos.pdb
+C:\Users\Soni\Desktop\algoritmossss\AnalisisDeAlgoritmos\AnalisisDeAlgoritmos\obj\x86\Debug\AnalisisDeAlgoritmos.exe
+C:\Users\Soni\Desktop\algoritmossss\AnalisisDeAlgoritmos\AnalisisDeAlgoritmos\obj\x86\Debug\AnalisisDeAlgoritmos.pdb
+C:\Users\Soni\Desktop\algoritmossss\AnalisisDeAlgoritmos\AnalisisDeAlgoritmos\bin\Debug\AnalisisDeAlgoritmos.exe
+C:\Users\Soni\Desktop\algoritmossss\AnalisisDeAlgoritmos\AnalisisDeAlgoritmos\bin\Debug\AnalisisDeAlgoritmos.pdb
+C:\Users\Soni\Desktop\algoritmossss\AnalisisDeAlgoritmos\AnalisisDeAlgoritmos\obj\x86\Debug\AnalisisDeAlgoritmos.csprojResolveAssemblyReference.cache
+C:\Users\Soni\Desktop\algoritmossss\AnalisisDeAlgoritmos\AnalisisDeAlgoritmos\obj\x86\Debug\AnalisisDeAlgoritmos.Form1.resources
+C:\Users\Soni\Desktop\algoritmossss\AnalisisDeAlgoritmos\AnalisisDeAlgoritmos\obj\x86\Debug\AnalisisDeAlgoritmos.Properties.Resources.resources
+C:\Users\Soni\Desktop\algoritmossss\AnalisisDeAlgoritmos\AnalisisDeAlgoritmos\obj\x86\Debug\AnalisisDeAlgoritmos.csproj.GenerateResource.Cache
